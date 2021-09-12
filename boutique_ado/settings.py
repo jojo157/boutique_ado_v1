@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'products',
     'bag',
     'checkout',
+    'profiles',
      #'allauth.socialaccount.providers.facebook',
      #'allauth.socialaccount.providers.google',
 
